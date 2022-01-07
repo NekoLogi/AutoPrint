@@ -11,6 +11,7 @@ namespace AutoPrint
     {
         static void Main()
         {
+            Console.Title = "AutoPrint";
             if (!File.Exists("Settings.xml"))
             {
                 Settings.Create();

@@ -11,6 +11,8 @@ namespace AutoPrint
 {
     class Printer
     {
+        static string FILE { get; set; }
+
         // Startpoint of Printer class.
         public void Start()
         {
@@ -23,9 +25,10 @@ namespace AutoPrint
 
                     foreach (var file in files)
                     {
-                        if (CheckEnding(file))
+                        FILE = file;
+                        if (CheckEnding(FILE))
                         {
-                            queue.Add(file);
+                            queue.Add(FILE);
                         }
                     }
                     Display(queue);
@@ -46,6 +49,7 @@ namespace AutoPrint
                             }
                         }
                     }
+                    Thread.Sleep(2000);
                 }
                 else
                 {
@@ -56,7 +60,7 @@ namespace AutoPrint
             }
         }
 
-        // Displays all Stats and printer status.
+        // Displays what is in the queue.
         void Display(List<string> queue)
         {
             Console.Clear();
@@ -81,8 +85,14 @@ namespace AutoPrint
         {
             foreach (var ending in Settings.ENDINGS)
             {
-                if (file.Split('.')[1] == ending)
+                if (file.Split('.')[1] == "pdf")
                 {
+                    return true;
+                }
+                else if (file.Split('.')[1] == ending)
+                {
+                    FILE = Converter.ConvertToPDF(file);
+                    File.Delete(file);
                     return true;
                 }
             }

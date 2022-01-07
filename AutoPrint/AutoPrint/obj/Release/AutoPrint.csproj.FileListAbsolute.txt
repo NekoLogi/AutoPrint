@@ -1,0 +1,15 @@
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\AutoPrint.exe.config
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\AutoPrint.exe
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\AutoPrint.pdb
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\PdfSharp.Charting.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\PdfSharp.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\PDFtoPrinter.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\PdfSharp.xml
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\PdfSharp.Charting.xml
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\de\PdfSharp.resources.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Release\de\PdfSharp.Charting.resources.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Release\AutoPrint.csproj.AssemblyReference.cache
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Release\AutoPrint.csproj.CoreCompileInputs.cache
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Release\AutoPrint.csproj.CopyComplete
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Release\AutoPrint.exe
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Release\AutoPrint.pdb

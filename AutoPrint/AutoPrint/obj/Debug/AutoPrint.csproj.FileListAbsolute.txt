@@ -7,3 +7,9 @@ D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.CopyComp
 D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Debug\AutoPrint.exe
 D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Debug\AutoPrint.pdb
 D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\PDFtoPrinter.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\PdfSharp.Charting.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\PdfSharp.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\PdfSharp.xml
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\PdfSharp.Charting.xml
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\de\PdfSharp.resources.dll
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\de\PdfSharp.Charting.resources.dll
