@@ -1,0 +1,9 @@
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe.config
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\AutoPrint.pdb
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.AssemblyReference.cache
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.CoreCompileInputs.cache
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.CopyComplete
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Debug\AutoPrint.exe
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\obj\Debug\AutoPrint.pdb
+D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\PDFtoPrinter.dll

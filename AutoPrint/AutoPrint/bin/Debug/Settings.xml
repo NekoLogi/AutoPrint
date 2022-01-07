@@ -1,0 +1,5 @@
+<Settings>
+  <Path>D:\User\Github\AutoPrint\AutoPrint\AutoPrint\bin\Debug\zudrucken</Path>
+  <Endings>pdf,jpg,jpeg,png</Endings>
+  <Printer_name>Epson Stylus Office BX305 Plus</Printer_name>
+</Settings>
